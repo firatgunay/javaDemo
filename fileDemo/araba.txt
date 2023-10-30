@@ -1,0 +1,6 @@
+Araba Markası: BMW
+Araba Modeli: d5
+Araba Yılı: 2018
+Araba Markası: audi
+Araba Modeli: a8
+Araba Yılı: 2023

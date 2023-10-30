@@ -1,0 +1,3 @@
+Araba Markası: mercedes
+Araba Modeli: c200
+Araba Yılı: 2021
