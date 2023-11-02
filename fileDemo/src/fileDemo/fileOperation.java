@@ -46,5 +46,10 @@ public class fileOperation {
         }
 
         System.out.println("Bilgiler başarıyla dosyaya yazıldı.");
+		
+	Scanner sc = new Scanner(dosya);
+        while (sc.hasNextLine()) {
+        	System.out.println(sc.nextLine());         	
+        }
     }
 }
